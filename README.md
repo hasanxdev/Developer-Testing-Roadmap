@@ -1,7 +1,30 @@
 
-# Developer Testing Roadmap
+# General roadmap for developers to learn testing
 
-![Roadmap](./developer-testing-roadmap.png)
+This roadmap helps you learn testing concepts in a structured and principled way.  
+It also allows you to evaluate yourself — to see what you're already familiar with and where you might need improvement.
+
+### 📌 What to Expect
+- A **clear structure** to learn testing step by step  
+- A **self-assessment guide** to track your strengths and weaknesses  
+- A mix of **concepts and tools** to give you a complete view of the testing world
+
+> With just one glance, you’ll be able to revisit and review all essential testing topics.
+
+---
+
+## 🤝 Contribute to This Roadmap
+
+To expand and improve this repository, we need your help!  
+If you know useful tools, resources, or have experience in testing that others can benefit from, feel free to share them.  
+You’re welcome to open a Pull Request or create an Issue — every contribution makes a difference!
+
+---
+## Give a Star! :star:
+
+📌 *Start from wherever you are — move forward with clarity!*
+
+![Roadmap](./developer-testing-roadmap.png?v=1)
 
 ## Test Concepts
 - White Box
