@@ -183,4 +183,9 @@
   - Veracode
   - OWASP Code Pulse
 
+## Books
+- The art of unit testing - Roy Osherov
+- TDD by Example - Kent Beck
+- XUnit Test Patterns by Gerard Meszaros
+
 # 🧠 Stay curious!
