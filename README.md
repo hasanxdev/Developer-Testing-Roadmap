@@ -137,6 +137,50 @@
   - Snapshot Testing
     - Verify
   - Canary Testing
-###
 
-🧠 Stay curious!
+## Test Pyramid
+
+## Test Coverage
+- CLI
+  - dotnet-coverage
+- Visual
+  - IDE Tools
+  - dotCover
+
+## Test smells
+- Test Logic
+- Magic strings
+- Slow Tests
+- Multiple Act
+- Stub static references
+  - DateTime
+  - System.IO
+- Flaky
+- Test Duplication in test levels
+
+## Clean Test Code
+- Test code is as important as production code
+- Duplication is okay, if it improves readability
+- Use the Rule of Three to decide to refactor
+- Test one condition per test
+
+## Test execution
+- Manual
+- Automate
+  - Without Pipeline
+    - Git Hooks
+      - [Husky .NET](https://alirezanet.github.io/Husky.Net/)
+      - [Husky](https://github.com/typicode/husky)
+  - With Pipeline
+    - CI
+    - CD
+
+## Static Code Analysis
+- Plugin
+  - [analysis-tools](https://analysis-tools.dev)
+- External
+  - Sonarqube
+  - Veracode
+  - OWASP Code Pulse
+
+# 🧠 Stay curious!
