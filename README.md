@@ -24,7 +24,7 @@ You’re welcome to open a Pull Request or create an Issue — every contributio
 
 📌 *Start from wherever you are — move forward with clarity!*
 
-![Roadmap](./developer-testing-roadmap.png?v=1)
+![Roadmap](./developer-testing-roadmap.png)
 
 ## Test Concepts
 - White Box
@@ -55,6 +55,15 @@ You’re welcome to open a Pull Request or create an Issue — every contributio
     - Arrange
     - Act
     - Assert
+      - .NET
+        - [Shouldly](https://docs.shouldly.org/)
+        - [Fluent Assertion](https://fluentassertions.com/)
+      - JS
+        - [jest](https://github.com/jestjs/jest)
+      - Python
+        - [pytest](https://docs.pytest.org)
+      - PHP
+        - [PHPUnit](https://phpunit.de/)
 - [Four Phase Test](https://martinfowler.com/bliki/GivenWhenThen.html)
     - Setup
     - Exercise
