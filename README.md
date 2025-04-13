@@ -247,4 +247,12 @@ You’re welcome to open a Pull Request or create an Issue — every contributio
 - TDD by Example - Kent Beck
 - XUnit Test Patterns by Gerard Meszaros
 
+<hr>
+
+## Contribute
+If you have any ideas, I’d be happy to receive them as a PR.
+The raw file for this roadmap is available, so feel free to use it and apply your own changes.
+
+Idea from: [AspNetCore Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
+
 # 🧠 Stay curious!
