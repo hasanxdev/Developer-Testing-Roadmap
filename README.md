@@ -24,7 +24,7 @@ You’re welcome to open a Pull Request or create an Issue — every contributio
 
 📌 *Start from wherever you are — move forward with clarity!*
 
-![Roadmap](./developer-testing-roadmap.svg)
+![Roadmap](./developer-testing-roadmap.svg?v=1-0-3)
 
 ## Test Concepts
 - White Box
