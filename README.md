@@ -1,5 +1,6 @@
 
 # General roadmap for developers to learn testing
+###### Version 1.0.4
 
 This roadmap helps you learn testing concepts in a structured and principled way.  
 It also allows you to evaluate yourself — to see what you're already familiar with and where you might need improvement.
@@ -24,7 +25,7 @@ You’re welcome to open a Pull Request or create an Issue — every contributio
 
 📌 *Start from wherever you are — move forward with clarity!*
 
-![Roadmap](./developer-testing-roadmap.svg?v=1-0-3)
+![Roadmap](./developer-testing-roadmap.svg?v=1-0-4)
 
 ## Test Concepts
 - White Box
@@ -68,7 +69,7 @@ You’re welcome to open a Pull Request or create an Issue — every contributio
     - Setup
     - Exercise
     - Verify
-    - Teardown
+    - [Teardown](http://xunitpatterns.com/Fixture%20Teardown%20Patterns.html)
 
 ## Development approach
 - TLD
@@ -100,8 +101,15 @@ You’re welcome to open a Pull Request or create an Issue — every contributio
     - Internal Functions Testing
       - [.NET Friend assemblies](https://learn.microsoft.com/en-us/dotnet/standard/assembly/friend)
     - Frameworks
-      - [XUnit](https://xunit.net/)
-      - [NUnit](https://nunit.org/)
+      - .NET
+        - [XUnit](https://xunit.net/)
+        - [NUnit](https://nunit.org/)
+      - JS
+        - [Jest](https://jestjs.io/)
+      - Python
+        - [unittest](https://docs.python.org/3/library/unittest.html)
+      - PHP
+        - [PHPUnit](https://phpunit.de/index.html)
     - Mock Tools
       - .NET
         - [Moq](https://github.com/devlooped/moq)
@@ -125,7 +133,7 @@ You’re welcome to open a Pull Request or create an Issue — every contributio
         - EFCore InMemoryDatabase
         - SQLite
       - Container Integration
-        - .NET Test Container
+        - [Test Container](https://testcontainers.com/)
         - [Gitlab Service container](https://docs.gitlab.com/ci/services/)
         - [Github Service container](https://docs.github.com/en/actions/use-cases-and-examples/using-containerized-services/about-service-containers)
     - Mock Server
@@ -185,9 +193,9 @@ You’re welcome to open a Pull Request or create an Issue — every contributio
       - [phpunit-snapshot-assertions](https://github.com/spatie/phpunit-snapshot-assertions)
   - Canary Testing
 
-## Test Pyramid
+## [Test Pyramid](https://www.softwaretestinggenius.com/istqb-agile-tester-extension-exam-theory-study-material-part-10)
 
-## Test Data Generation
+## Fake Data Generation
 - .NET
   - [AutoFixture](https://github.com/AutoFixture/AutoFixture)
   - [Bogus](https://github.com/bchavez/Bogus)
